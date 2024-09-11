@@ -5,5 +5,5 @@
 # Raghu Nandan Gupta
 **Senior Executive - Data Analytics & Supply Chain at Reliance Retail Ltd.**
 
-I specialize in data analysis, dashboard creation, and automation using Excel, MySQL, Python, and Google Looker Studio. Passionate about turning data into actionable insights to drive business growth and efficiency.
+My name is Raghu Nandan Gupta, and I am a Senior Executive in Consumables at Reliance Retail Ltd. With a mechanical engineering degree from Dr. APJ Abdul Kalam University, I bring a strong technical background to my role. I specialize in working with Excel, Google Sheets, MySQL, and Google Looker Studio for data analysis and reporting. My responsibilities include performing data analysis using Python, MySQL, and Excel to extract insights and drive efficient decision-making. Additionally, I create and manage dashboards to provide insights and utilize MySQL for efficient data management and analysis. 
 
